@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df6bfc607804835a9b5e80b816180fe, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  type: 2
+  pixelsOffset: {x: 48, y: 240}
+  stepSound: {fileID: 0}
+  timeToBreak: 0.1
+  pixelsOffsetUp: {x: 0, y: 240}
+  pixelsOffsetDown: {x: 32, y: 240}
